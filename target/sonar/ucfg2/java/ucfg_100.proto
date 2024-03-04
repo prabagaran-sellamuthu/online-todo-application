@@ -1,0 +1,39 @@
+
+≤com.praba.onlinetodoapp.OnlineTodoAppApplication#configure(Lorg/springframework/boot/builder/SpringApplicationBuilder;)Lorg/springframework/boot/builder/SpringApplicationBuilder;ú
+ë/mnt/c/Users/think/Documents/Prabagaran/STS_Workspace/online-todo-application/src/main/java/com/praba/onlinetodoapp/OnlineTodoAppApplication.java' (0"startingBlock*‡
+startingBlock0 (R∑
+¥
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*b
+
+__unknown_file (F
+D
+builder9org.springframework.boot.builder.SpringApplicationBuilderÖ
+Ç
+J (QD
+builder9org.springframework.boot.builder.SpringApplicationBuilder"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Â
+1 (ÜÉ
+ (>?
+%09org.springframework.boot.builder.SpringApplicationBuilder"êorg.springframework.boot.builder.SpringApplicationBuilder#sources([Ljava/lang/Class;)Lorg/springframework/boot/builder/SpringApplicationBuilder;*b
+
+__unknown_file (F
+D
+builder9org.springframework.boot.builder.SpringApplicationBuilder*"
+
+__unknown_file (
+""2sources([Ljava/lang/Class;)"M
+ (?A
+?
+%09org.springframework.boot.builder.SpringApplicationBuilder:P
+1 (QD
+builder9org.springframework.boot.builder.SpringApplicationBuilderB42
+0com.praba.onlinetodoapp.OnlineTodoAppApplication

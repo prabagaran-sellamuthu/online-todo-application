@@ -1,0 +1,4 @@
+com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#configure(Lorg/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder;)V
+==
+authenticationProvider org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder#authenticationProvider(Lorg/springframework/security/authentication/AuthenticationProvider;)Lorg/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder;
+authenticationProvider com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#authenticationProvider()Lorg/springframework/security/authentication/dao/DaoAuthenticationProvider;

@@ -1,0 +1,4 @@
+com.praba.onlinetodoapp.controller.UserApiController#getUserById(Ljava/lang/Long;)Lcom/praba/onlinetodoapp/entity/User;
+==
+info org.apache.logging.log4j.Logger#info(Ljava/lang/String;)V
+findById com.praba.onlinetodoapp.service.UserService#findById(Ljava/lang/Long;)Lcom/praba/onlinetodoapp/entity/User;

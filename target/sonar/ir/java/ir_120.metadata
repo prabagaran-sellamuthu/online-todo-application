@@ -1,0 +1,9 @@
+com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#jspViewResolver()Lorg/springframework/web/servlet/view/InternalResourceViewResolver;
+org.springframework.web.servlet.view.InternalResourceViewResolver#<init>()V
+org.springframework.web.servlet.view.InternalResourceViewResolver#instance-init#
+==
+setOrder org.springframework.web.servlet.view.UrlBasedViewResolver#setOrder(I)V
+setViewClass org.springframework.web.servlet.view.UrlBasedViewResolver#setViewClass(Ljava/lang/Class;)V
+setPrefix org.springframework.web.servlet.view.UrlBasedViewResolver#setPrefix(Ljava/lang/String;)V
+setSuffix org.springframework.web.servlet.view.UrlBasedViewResolver#setSuffix(Ljava/lang/String;)V
+setViewNames org.springframework.web.servlet.view.UrlBasedViewResolver#setViewNames([Ljava/lang/String;)V

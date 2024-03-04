@@ -1,0 +1,9 @@
+com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#thymeleafViewResolver()Lorg/thymeleaf/spring5/view/ThymeleafViewResolver;
+org.thymeleaf.spring5.view.ThymeleafViewResolver#instance-init#
+org.thymeleaf.spring5.view.ThymeleafViewResolver#<init>()V
+==
+templateEngine com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#templateEngine()Lorg/thymeleaf/spring5/SpringTemplateEngine;
+setCharacterEncoding org.thymeleaf.spring5.view.ThymeleafViewResolver#setCharacterEncoding(Ljava/lang/String;)V
+setViewNames org.thymeleaf.spring5.view.ThymeleafViewResolver#setViewNames([Ljava/lang/String;)V
+setTemplateEngine org.thymeleaf.spring5.view.ThymeleafViewResolver#setTemplateEngine(Lorg/thymeleaf/spring5/ISpringTemplateEngine;)V
+setExcludedViewNames org.thymeleaf.spring5.view.ThymeleafViewResolver#setExcludedViewNames([Ljava/lang/String;)V

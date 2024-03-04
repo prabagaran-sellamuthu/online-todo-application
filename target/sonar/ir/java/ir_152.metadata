@@ -1,0 +1,6 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#mapRolesToAuthorities(Ljava/util/Collection;)Ljava/util/Collection;
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;

@@ -1,0 +1,12 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#loadUserByUsername(Ljava/lang/String;)Lorg/springframework/security/core/userdetails/UserDetails;
+org.springframework.security.core.userdetails.UsernameNotFoundException#<init>(Ljava/lang/String;)V
+org.springframework.security.core.userdetails.UsernameNotFoundException#instance-init#
+org.springframework.security.core.userdetails.User#instance-init#
+com.praba.onlinetodoapp.service.UserServiceImpl#mapRolesToAuthorities(Ljava/util/Collection;)Ljava/util/Collection;
+org.springframework.security.core.userdetails.User#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V
+==
+getEmail com.praba.onlinetodoapp.entity.User#getEmail()Ljava/lang/String;
+getPassword com.praba.onlinetodoapp.entity.User#getPassword()Ljava/lang/String;
+findByEmail com.praba.onlinetodoapp.repository.UserRepository#findByEmail(Ljava/lang/String;)Lcom/praba/onlinetodoapp/entity/User;
+error org.apache.logging.log4j.Logger#error(Ljava/lang/String;)V
+getRoles com.praba.onlinetodoapp.entity.User#getRoles()Ljava/util/Collection;

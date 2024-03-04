@@ -1,0 +1,6 @@
+com.praba.onlinetodoapp.entity.User#hashCode()I
+java.lang.Long#hashCode()I
+java.lang.String#hashCode()I
+==
+hashCode java.util.List#hashCode()I
+hashCode java.util.Collection#hashCode()I

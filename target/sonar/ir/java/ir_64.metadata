@@ -1,0 +1,10 @@
+com.praba.onlinetodoapp.controller.UserApiController#deleteTodo(Ljava/lang/Long;Ljava/lang/Long;)Lorg/springframework/web/servlet/ModelAndView;
+org.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;)V
+org.springframework.web.servlet.ModelAndView#instance-init#
+==
+info org.apache.logging.log4j.Logger#info(Ljava/lang/String;)V
+findById com.praba.onlinetodoapp.service.UserService#findById(Ljava/lang/Long;)Lcom/praba/onlinetodoapp/entity/User;
+findById com.praba.onlinetodoapp.service.TodoService#findById(Ljava/lang/Long;)Lcom/praba/onlinetodoapp/entity/Todo;
+getTodoList com.praba.onlinetodoapp.entity.User#getTodoList()Ljava/util/List;
+remove java.util.List#remove(Ljava/lang/Object;)Z
+delete com.praba.onlinetodoapp.service.TodoService#delete(Lcom/praba/onlinetodoapp/entity/Todo;)V

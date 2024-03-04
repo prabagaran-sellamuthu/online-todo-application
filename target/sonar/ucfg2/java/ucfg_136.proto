@@ -1,0 +1,72 @@
+
+?com.praba.onlinetodoapp.model.Role#toString()Ljava/lang/String;Ž
+ƒ/mnt/c/Users/think/Documents/Prabagaran/STS_Workspace/online-todo-application/src/main/java/com/praba/onlinetodoapp/model/Role.java( (("1*¸
+1) )(Z
+X
+) *(
+%0java.lang.String"__concat*
+) )(	
+Role{*
+* *(
+id=t
+r
+* *(
+%1java.lang.Long"__id*J
+
+__unknown_file (.*,$
+"com.praba.onlinetodoapp.model.Role"
+idx
+v
+) *(
+%2java.lang.String"__concat*$
+) *(
+
+%0java.lang.String*"
+* *(
+
+%1java.lang.Longn
+l
+) +(
+%3java.lang.String"__concat*$
+) *(
+
+%2java.lang.String*
++ +(
+
+, name='x
+v
++ +(!
+%4java.lang.String"__id*L
+
+__unknown_file (0*.$
+"com.praba.onlinetodoapp.model.Role"
+namez
+x
+) +(!
+%5java.lang.String"__concat*$
+) +(
+
+%3java.lang.String*$
++ +(!
+
+%4java.lang.Stringh
+f
+) +((
+%6java.lang.String"__concat*$
+) +(!
+
+%5java.lang.String*
++$ +((
+\'g
+e
+) ,(
+%7java.lang.String"__concat*$
+) +((
+
+%6java.lang.String*
+, ,(
+}"$
+) ,(
+
+%7java.lang.StringB&$
+"com.praba.onlinetodoapp.model.RoleH

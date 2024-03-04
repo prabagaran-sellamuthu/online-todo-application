@@ -1,0 +1,3 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#findByEmail(Ljava/lang/String;)Lcom/praba/onlinetodoapp/entity/User;
+==
+findByEmail com.praba.onlinetodoapp.repository.UserRepository#findByEmail(Ljava/lang/String;)Lcom/praba/onlinetodoapp/entity/User;

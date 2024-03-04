@@ -1,0 +1,6 @@
+com.praba.onlinetodoapp.entity.User#equals(Ljava/lang/Object;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.Long#equals(Ljava/lang/Object;)Z
+==
+equals java.util.Collection#equals(Ljava/lang/Object;)Z
+equals java.util.List#equals(Ljava/lang/Object;)Z

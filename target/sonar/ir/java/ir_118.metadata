@@ -1,0 +1,7 @@
+com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#templateEngine()Lorg/thymeleaf/spring5/SpringTemplateEngine;
+org.thymeleaf.spring5.SpringTemplateEngine#<init>()V
+org.thymeleaf.spring5.SpringTemplateEngine#instance-init#
+==
+setEnableSpringELCompiler org.thymeleaf.spring5.SpringTemplateEngine#setEnableSpringELCompiler(Z)V
+thymeleafTemplateResolver com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#thymeleafTemplateResolver()Lorg/thymeleaf/spring5/templateresolver/SpringResourceTemplateResolver;
+setTemplateResolver org.thymeleaf.TemplateEngine#setTemplateResolver(Lorg/thymeleaf/templateresolver/ITemplateResolver;)V

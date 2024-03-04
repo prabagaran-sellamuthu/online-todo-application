@@ -1,0 +1,3 @@
+com.praba.onlinetodoapp.controller.UserRegistrationController#userRegistrationDto()Lcom/praba/onlinetodoapp/controller/dto/UserRegistrationDto;
+com.praba.onlinetodoapp.controller.dto.UserRegistrationDto#instance-init#
+com.praba.onlinetodoapp.controller.dto.UserRegistrationDto#<init>()V

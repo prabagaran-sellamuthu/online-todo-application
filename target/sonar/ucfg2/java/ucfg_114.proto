@@ -1,0 +1,15 @@
+
+Jcom.praba.onlinetodoapp.entity.Todo#getLastUpdatedDate()Ljava/lang/String;è
+Ñ/mnt/c/Users/think/Documents/Prabagaran/STS_Workspace/online-todo-application/src/main/java/com/praba/onlinetodoapp/entity/Todo.javaR R(!"1*ª
+1S	 S(Ö
+Ç
+S	 S(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:%
+#com.praba.onlinetodoapp.entity.Todo"
+lastUpdatedDate"$
+S S(
+
+%0java.lang.StringB'%
+#com.praba.onlinetodoapp.entity.TodoH

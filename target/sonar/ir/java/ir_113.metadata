@@ -1,0 +1,25 @@
+com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#configure(Lorg/springframework/security/config/annotation/web/builders/HttpSecurity;)V
+org.springframework.security.config.annotation.web.builders.HttpSecurity#authorizeRequests()Lorg/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer$ExpressionInterceptUrlRegistry;
+org.springframework.security.config.annotation.web.configurers.HeadersConfigurer$FrameOptionsConfig#disable()Lorg/springframework/security/config/annotation/web/configurers/HeadersConfigurer;
+org.springframework.security.config.annotation.web.builders.HttpSecurity#logout()Lorg/springframework/security/config/annotation/web/configurers/LogoutConfigurer;
+org.springframework.security.config.annotation.web.builders.HttpSecurity#csrf()Lorg/springframework/security/config/annotation/web/configurers/CsrfConfigurer;
+org.springframework.security.web.util.matcher.AntPathRequestMatcher#<init>(Ljava/lang/String;)V
+org.springframework.security.config.annotation.web.configurers.LogoutConfigurer#logoutSuccessUrl(Ljava/lang/String;)Lorg/springframework/security/config/annotation/web/configurers/LogoutConfigurer;
+org.springframework.security.config.annotation.web.configurers.AbstractAuthenticationFilterConfigurer#permitAll()Lorg/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer;
+org.springframework.security.config.annotation.web.builders.HttpSecurity#formLogin()Lorg/springframework/security/config/annotation/web/configurers/FormLoginConfigurer;
+org.springframework.security.web.util.matcher.AntPathRequestMatcher#instance-init#
+org.springframework.security.config.annotation.web.configurers.LogoutConfigurer#invalidateHttpSession(Z)Lorg/springframework/security/config/annotation/web/configurers/LogoutConfigurer;
+org.springframework.security.config.annotation.web.configurers.LogoutConfigurer#clearAuthentication(Z)Lorg/springframework/security/config/annotation/web/configurers/LogoutConfigurer;
+org.springframework.security.config.annotation.web.configurers.LogoutConfigurer#permitAll()Lorg/springframework/security/config/annotation/web/configurers/LogoutConfigurer;
+org.springframework.security.config.annotation.web.configurers.FormLoginConfigurer#loginPage(Ljava/lang/String;)Lorg/springframework/security/config/annotation/web/configurers/FormLoginConfigurer;
+org.springframework.security.config.annotation.web.configurers.LogoutConfigurer#logoutRequestMatcher(Lorg/springframework/security/web/util/matcher/RequestMatcher;)Lorg/springframework/security/config/annotation/web/configurers/LogoutConfigurer;
+org.springframework.security.config.annotation.web.builders.HttpSecurity#headers()Lorg/springframework/security/config/annotation/web/configurers/HeadersConfigurer;
+==
+and org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer$ExpressionInterceptUrlRegistry#and()Lorg/springframework/security/config/annotation/web/HttpSecurityBuilder;
+authenticated org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer$AuthorizedUrl#authenticated()Lorg/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer$ExpressionInterceptUrlRegistry;
+disable org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer#disable()Lorg/springframework/security/config/annotation/web/HttpSecurityBuilder;
+and org.springframework.security.config.annotation.SecurityConfigurerAdapter#and()Lorg/springframework/security/config/annotation/SecurityBuilder;
+permitAll org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer$AuthorizedUrl#permitAll()Lorg/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer$ExpressionInterceptUrlRegistry;
+frameOptions org.springframework.security.config.annotation.web.configurers.HeadersConfigurer#frameOptions()Lorg/springframework/security/config/annotation/web/configurers/HeadersConfigurer$FrameOptionsConfig;
+anyRequest org.springframework.security.config.annotation.web.AbstractRequestMatcherRegistry#anyRequest()Ljava/lang/Object;
+antMatchers org.springframework.security.config.annotation.web.AbstractRequestMatcherRegistry#antMatchers([Ljava/lang/String;)Ljava/lang/Object;

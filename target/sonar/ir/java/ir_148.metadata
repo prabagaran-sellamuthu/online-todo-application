@@ -1,0 +1,4 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#findById(Ljava/lang/Long;)Lcom/praba/onlinetodoapp/entity/User;
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+findById org.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;

@@ -1,0 +1,148 @@
+
+>com.praba.onlinetodoapp.model.Todo#equals(Ljava/lang/Object;)ZŽ
+ƒ/mnt/c/Users/think/Documents/Prabagaran/STS_Workspace/online-todo-application/src/main/java/com/praba/onlinetodoapp/model/Todo.javac c("startingBlock*!
+2l
+ l("
+l l(
+""*¶
+3j j(v
+t
+j j(+
+other"com.praba.onlinetodoapp.model.Todo"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectt
+r
+k k(
+%5java.lang.Long"__id*J
+
+__unknown_file (.*,$
+"com.praba.onlinetodoapp.model.Todo"
+id{
+y
+k k(
+%6java.lang.Long"__id*Q
+
+__unknown_file (5*3
++
+other"com.praba.onlinetodoapp.model.Todo"
+id³
+°
+k k(
+%7boolean"	__compare*"
+
+__unknown_file (
+!=*2
+
+__unknown_file (
+
+%5java.lang.Long*2
+
+__unknown_file (
+
+%6java.lang.Long*
+2
+1*„
+startingBlockc c("Š
+‡
+b b(
+
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+c c(!
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+9*!
+4i
+ i("
+i i(
+""*Š
+5h h(¢Ÿ
+h h(
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*B
+
+__unknown_file (&$
+"com.praba.onlinetodoapp.model.Todo2
+getClass()•’
+h h("
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()µ
+²
+h h("
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+3
+4*!
+6g
+ g("
+g g(
+""*¾
+7f f(	¦
+£
+f f(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+objjava.lang.Object*"
+
+__unknown_file (
+""*
+5
+6*!
+8e
+ e("
+e e(
+""*Þ
+9d d(
+Æ
+Ã
+d d(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*B
+
+__unknown_file (&$
+"com.praba.onlinetodoapp.model.Todo*5
+
+__unknown_file (
+
+objjava.lang.Object*
+7
+8*!
+1m	 m("
+m m(
+"":#
+c c(!
+objjava.lang.ObjectB&$
+"com.praba.onlinetodoapp.model.TodoHX

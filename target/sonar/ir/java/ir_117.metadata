@@ -1,0 +1,8 @@
+com.praba.onlinetodoapp.config.OnlineTodoAppConfiguration#thymeleafTemplateResolver()Lorg/thymeleaf/spring5/templateresolver/SpringResourceTemplateResolver;
+org.thymeleaf.templateresolver.AbstractConfigurableTemplateResolver#setPrefix(Ljava/lang/String;)V
+org.thymeleaf.templateresolver.AbstractConfigurableTemplateResolver#setSuffix(Ljava/lang/String;)V
+org.thymeleaf.spring5.templateresolver.SpringResourceTemplateResolver#<init>()V
+org.thymeleaf.spring5.templateresolver.SpringResourceTemplateResolver#instance-init#
+==
+setApplicationContext org.thymeleaf.spring5.templateresolver.SpringResourceTemplateResolver#setApplicationContext(Lorg/springframework/context/ApplicationContext;)V
+setOrder org.thymeleaf.templateresolver.AbstractTemplateResolver#setOrder(Ljava/lang/Integer;)V

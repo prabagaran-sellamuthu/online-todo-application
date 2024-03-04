@@ -1,0 +1,29 @@
+
+@__sonar_lambda_2$com.praba.onlinetodoapp.service.UserServiceImplõ
+ê/mnt/c/Users/think/Documents/Prabagaran/STS_Workspace/online-todo-application/src/main/java/com/praba/onlinetodoapp/service/UserServiceImpl.javaG G(G"1*÷
+1G8 G(<ºπ
+G8 G(F
+%2java.lang.String"?com.praba.onlinetodoapp.entity.Role#getName()Ljava/lang/String;*I
+
+__unknown_file (-
++
+role#com.praba.onlinetodoapp.entity.Role2	getName()õò
+G! G(7H
+%3Borg.springframework.security.core.authority.SimpleGrantedAuthority"Borg.springframework.security.core.authority.SimpleGrantedAuthorityë
+é
+G G(G
+%4"^org.springframework.security.core.authority.SimpleGrantedAuthority#<init>(Ljava/lang/String;)V*f
+
+__unknown_file (J
+H
+%3Borg.springframework.security.core.authority.SimpleGrantedAuthority*4
+
+__unknown_file (
+
+%2java.lang.String"V
+G G(GJ
+H
+%3Borg.springframework.security.core.authority.SimpleGrantedAuthority:7
+G G(+
+role#com.praba.onlinetodoapp.entity.RoleB
+java.util.function.Function

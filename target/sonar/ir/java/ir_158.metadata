@@ -1,0 +1,9 @@
+com.praba.onlinetodoapp.controller.MainController#todoNewForm(Lorg/springframework/ui/ModelMap;)Ljava/lang/String;
+org.springframework.security.core.context.SecurityContextHolder#getContext()Lorg/springframework/security/core/context/SecurityContext;
+==
+getPrincipal org.springframework.security.core.Authentication#getPrincipal()Ljava/lang/Object;
+getUsername org.springframework.security.core.userdetails.User#getUsername()Ljava/lang/String;
+getAuthentication org.springframework.security.core.context.SecurityContext#getAuthentication()Lorg/springframework/security/core/Authentication;
+findByEmail com.praba.onlinetodoapp.service.UserService#findByEmail(Ljava/lang/String;)Lcom/praba/onlinetodoapp/entity/User;
+getId com.praba.onlinetodoapp.entity.User#getId()Ljava/lang/Long;
+addAttribute org.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;

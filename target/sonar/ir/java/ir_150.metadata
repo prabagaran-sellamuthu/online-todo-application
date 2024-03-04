@@ -1,0 +1,19 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#save(Lcom/praba/onlinetodoapp/controller/dto/UserRegistrationDto;)Lcom/praba/onlinetodoapp/entity/User;
+com.praba.onlinetodoapp.entity.User#<init>()V
+com.praba.onlinetodoapp.entity.Role#instance-init#
+com.praba.onlinetodoapp.entity.User#instance-init#
+com.praba.onlinetodoapp.entity.Role#<init>(Ljava/lang/String;)V
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+getLastName com.praba.onlinetodoapp.controller.dto.UserRegistrationDto#getLastName()Ljava/lang/String;
+setTodoList com.praba.onlinetodoapp.entity.User#setTodoList(Ljava/util/List;)V
+getFirstName com.praba.onlinetodoapp.controller.dto.UserRegistrationDto#getFirstName()Ljava/lang/String;
+setLastName com.praba.onlinetodoapp.entity.User#setLastName(Ljava/lang/String;)V
+setPassword com.praba.onlinetodoapp.entity.User#setPassword(Ljava/lang/String;)V
+save org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;
+setFirstName com.praba.onlinetodoapp.entity.User#setFirstName(Ljava/lang/String;)V
+getEmail com.praba.onlinetodoapp.controller.dto.UserRegistrationDto#getEmail()Ljava/lang/String;
+getPassword com.praba.onlinetodoapp.controller.dto.UserRegistrationDto#getPassword()Ljava/lang/String;
+encode org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder#encode(Ljava/lang/CharSequence;)Ljava/lang/String;
+setRoles com.praba.onlinetodoapp.entity.User#setRoles(Ljava/util/Collection;)V
+setEmail com.praba.onlinetodoapp.entity.User#setEmail(Ljava/lang/String;)V

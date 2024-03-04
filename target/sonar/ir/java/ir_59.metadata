@@ -1,0 +1,5 @@
+com.praba.onlinetodoapp.controller.UserApiController#deleteUser(Ljava/lang/Long;)V
+==
+info org.apache.logging.log4j.Logger#info(Ljava/lang/String;)V
+findById com.praba.onlinetodoapp.service.UserService#findById(Ljava/lang/Long;)Lcom/praba/onlinetodoapp/entity/User;
+delete com.praba.onlinetodoapp.service.UserService#delete(Lcom/praba/onlinetodoapp/entity/User;)V

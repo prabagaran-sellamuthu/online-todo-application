@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="DEBUG">
+	<Appenders>
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n" />
+		</Console>
+		<File name="file" fileName="logs/OnlineTodoApp.log"
+			filePattern="logs/OnlineTodoApp-%d{yyyy-MM-dd}.log">
+			<PatternLayout
+				pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n" />
+			<TimeBasedTriggeringPolicy interval="1"
+				modulate="true" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Logger name="com.praba" level="debug" additivity="false">
+			<AppenderRef ref="file" />
+		</Logger>
+		<Root level="info">
+			<AppenderRef ref="console" />
+		</Root>
+	</Loggers>
+</Configuration>

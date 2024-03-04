@@ -1,0 +1,3 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#delete(Lcom/praba/onlinetodoapp/entity/User;)V
+==
+delete org.springframework.data.repository.CrudRepository#delete(Ljava/lang/Object;)V

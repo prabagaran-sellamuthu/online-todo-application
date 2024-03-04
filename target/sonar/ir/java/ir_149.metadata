@@ -1,0 +1,3 @@
+com.praba.onlinetodoapp.service.UserServiceImpl#save(Lcom/praba/onlinetodoapp/entity/User;)Lcom/praba/onlinetodoapp/entity/User;
+==
+save org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;
